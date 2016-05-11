@@ -1,5 +1,6 @@
 node_modules
 /apps/HelloWorld/common/lib
+/apps/HelloWorld/android/native/.idea
 
 #
 # BEGIN mfp-gitignore rules
