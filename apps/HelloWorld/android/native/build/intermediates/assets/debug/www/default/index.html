@@ -1,0 +1,60 @@
+<!DOCTYPE HTML><html>
+    <head>
+        <meta charset="UTF-8">
+        <title>HelloWorld</title>
+        <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0" name="viewport">
+            <!-- inject:css -->
+        <link href="worklight/worklight.css" rel="stylesheet">
+        <link href="css/app.css" rel="stylesheet">
+            <!-- endinject -->
+    		<!-- bower:css -->
+    		<!-- endbower -->
+            <!-- bower:js -->
+        <script>
+		// Define WL namespace.
+		var WL = WL ? WL : {};
+		/**
+		 * WLClient configuration variables.
+		 * Values are injected by the deployer that packs the gadget.
+		 */
+		 WL.StaticAppProps = {
+   "APP_DISPLAY_NAME": "HelloWorld",
+   "APP_ID": "HelloWorld",
+   "APP_SERVICES_URL": "\/apps\/services\/",
+   "APP_VERSION": "1.0",
+   "ENVIRONMENT": "android",
+   "LOGIN_DISPLAY_TYPE": "embedded",
+   "WORKLIGHT_NATIVE_VERSION": "2674313786",
+   "WORKLIGHT_PLATFORM_VERSION": "7.1.0.0",
+   "WORKLIGHT_ROOT_URL": "\/apps\/services\/api\/HelloWorld\/android\/"
+};
+</script>
+		<script src="worklight/cordova.js"></script>
+		<script src="worklight/wljq.js"></script>
+		<script src="worklight/worklight.js"></script>
+		<script src="worklight/checksum.js"></script>
+		<script src="lib/jquery/dist/jquery.js"></script>
+            <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+            <script src="lib/angular/angular.js"></script>
+            <script src="lib/angular-route/angular-route.js"></script>
+            <script src="lib/spin.js/spin.js"></script>
+            <script src="lib/angular-spinner/angular-spinner.js"></script>
+            <!-- endbower -->
+            <script src="js/initOptions.js"></script>
+            <script src="js/main.js"></script>
+            <script src="js/messages.js"></script>
+            <!-- inject:js -->
+            <script src="assets/app.js"></script>
+            <script src="assets/services/authentication/authentication.service.js"></script>
+            <script src="assets/views/login/login.controller.js"></script>
+            <script src="assets/views/login/login.js"></script>
+            <script src="assets/views/page2/page2.controller.js"></script>
+            <script src="assets/views/page2/page2.js"></script>
+            <script src="assets/views/page1/page1.controller.js"></script>
+            <script src="assets/views/page1/page1.js"></script>
+            <!-- endinject -->
+    </head>
+    <body>
+        <div class="viewport" ng-view=""></div>
+    </body>
+</html>

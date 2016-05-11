@@ -1,0 +1,30 @@
+<div class='page2'>
+	<nav class="navbar navbar-default navbar-inverse">
+		<div class="container-fluid">
+			<div class="navbar-header">
+				<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+				<span class="sr-only">Toggle navigation</span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				</button>
+				<a class="navbar-brand" href="#">EM Lyon</a>
+			</div>
+			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+				<ul class="nav navbar-nav">
+					<li><a href="#page1">Page 1</a></li>
+					<li class="active"><a href="#page2">Page 2<span class="sr-only">(current)</span></a></li>
+				</ul>
+			</div>
+		</div>
+	</nav>
+	<div class="content">
+		<button ng-click="isPushSupported()">isPushSupported</button>
+		<button ng-click="isPushSubscribed()">isPushSubscribed</button>
+		<button ng-click="doSubscribe()">Subscribe</button>
+		<button ng-click="doUnsubscribe()">Unsubscribe</button>
+		<button ng-click="cleanNotificationBadge()">Clean badge</button>
+		<button ng-click="logout()">Logout</button>
+	</div>
+</div>
+</div>

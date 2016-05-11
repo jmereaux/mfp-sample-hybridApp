@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<nativeAndroidApp id="com_HelloWorld" platformVersion="7.1.0.00.20160401-2103" version="1.0" xmlns="http://www.worklight.com/native-android-descriptor">
+    <displayName>HelloWorld</displayName>
+    <description>HelloWorld</description>
+    <packageName>com.HelloWorld</packageName>
+    <publicSigningKey />
+    <accessTokenExpiration>3600</accessTokenExpiration>
+    <userIdentityRealms />
+    <licenseAppType>APPLICATION</licenseAppType>
+    <targetCategory>UNDEFINED</targetCategory>
+</nativeAndroidApp>

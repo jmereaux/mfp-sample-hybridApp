@@ -1,0 +1,6 @@
+{
+  "directory": "common/lib",
+  "scripts": {
+    "postinstall": "gulp inject-bower-deps"
+  }
+}

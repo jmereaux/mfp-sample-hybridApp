@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/res/merged/debug/drawable-ldpi-v4/icon.png",
+        "source": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/drawable-ldpi/icon.png"
+    },
+    {
+        "merged": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/res/merged/debug/drawable-ldpi-v4/settings.png",
+        "source": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/drawable-ldpi/settings.png"
+    },
+    {
+        "merged": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/res/merged/debug/drawable-ldpi-v4/push.png",
+        "source": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/drawable-ldpi/push.png"
+    }
+]

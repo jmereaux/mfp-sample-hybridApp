@@ -1,0 +1,446 @@
+[
+    {
+        "outputFile": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/res/merged/debug/values-zh/values-zh.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 49,
+                    "endOffset": 100
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 616,
+                        "endColumn": 47,
+                        "endOffset": 661
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 47,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 2,
+                        "startOffset": 63,
+                        "endColumn": 45,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 37,
+                    "endOffset": 186
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 2,
+                        "startOffset": 280,
+                        "endColumn": 35,
+                        "endOffset": 313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 191,
+                    "endColumn": 57,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 877,
+                        "endColumn": 55,
+                        "endOffset": 930
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 36,
+                    "endOffset": 281
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 2,
+                        "startOffset": 245,
+                        "endColumn": 34,
+                        "endOffset": 277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 286,
+                    "endColumn": 78,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1309,
+                        "endColumn": 76,
+                        "endOffset": 1383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 78,
+                    "endOffset": 439
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1141,
+                        "endColumn": 76,
+                        "endOffset": 1215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 444,
+                    "endColumn": 36,
+                    "endOffset": 476
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 2,
+                        "startOffset": 210,
+                        "endColumn": 34,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 481,
+                    "endLine": 11,
+                    "endColumn": 9,
+                    "endOffset": 587
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 722,
+                        "endLine": 19,
+                        "endColumn": 9,
+                        "endOffset": 828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 592,
+                    "endColumn": 43,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1386,
+                        "endColumn": 41,
+                        "endOffset": 1425
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 64,
+                    "endOffset": 696
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 2,
+                        "startOffset": 553,
+                        "endColumn": 62,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 701,
+                    "endColumn": 62,
+                    "endOffset": 759
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 2,
+                        "startOffset": 111,
+                        "endColumn": 60,
+                        "endOffset": 169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 764,
+                    "endColumn": 47,
+                    "endOffset": 807
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 831,
+                        "endColumn": 45,
+                        "endOffset": 874
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 812,
+                    "endColumn": 94,
+                    "endOffset": 902
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 2,
+                        "startOffset": 409,
+                        "endColumn": 92,
+                        "endOffset": 499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 907,
+                    "endColumn": 59,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 664,
+                        "endColumn": 57,
+                        "endOffset": 719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 52,
+                    "endOffset": 1015
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 2,
+                        "startOffset": 502,
+                        "endColumn": 50,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1020,
+                    "endColumn": 64,
+                    "endOffset": 1080
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1218,
+                        "endColumn": 62,
+                        "endOffset": 1278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1085,
+                    "endColumn": 47,
+                    "endOffset": 1128
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1044,
+                        "endColumn": 45,
+                        "endOffset": 1087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1133,
+                    "endColumn": 52,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1090,
+                        "endColumn": 50,
+                        "endOffset": 1138
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1186,
+                    "endColumn": 57,
+                    "endOffset": 1239
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 988,
+                        "endColumn": 55,
+                        "endOffset": 1041
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1244,
+                    "endColumn": 82,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 1490,
+                        "endColumn": 80,
+                        "endOffset": 1568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 105,
+                    "endOffset": 1428
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 1571,
+                        "endColumn": 103,
+                        "endOffset": 1672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1433,
+                    "endColumn": 55,
+                    "endOffset": 1484
+                },
+                "from": {
+                    "file": "/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/res/values-zh/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 2,
+                        "startOffset": 355,
+                        "endColumn": 53,
+                        "endOffset": 406
+                    }
+                }
+            }
+        ]
+    }
+]

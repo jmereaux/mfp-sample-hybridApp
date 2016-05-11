@@ -1,0 +1,43 @@
+<!DOCTYPE HTML>
+<html>
+    	<head>
+    		<meta charset="UTF-8">
+    		<title>HelloWorld</title>
+    		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, user-scalable=0">
+
+            <!-- inject:css -->
+            <link rel="stylesheet" href="css/app.css">
+            <!-- endinject -->
+
+    		<!-- bower:css -->
+    		<!-- endbower -->
+
+            <!-- bower:js -->
+            <script src="lib/jquery/dist/jquery.js"></script>
+            <script src="lib/bootstrap/dist/js/bootstrap.min.js"></script>
+            <script src="lib/angular/angular.js"></script>
+            <script src="lib/angular-route/angular-route.js"></script>
+            <script src="lib/spin.js/spin.js"></script>
+            <script src="lib/angular-spinner/angular-spinner.js"></script>
+            <!-- endbower -->
+
+            <script src="js/initOptions.js"></script>
+            <script src="js/main.js"></script>
+            <script src="js/messages.js"></script>
+
+            <!-- inject:js -->
+            <script src="assets/app.js"></script>
+            <script src="assets/services/authentication/authentication.service.js"></script>
+            <script src="assets/views/login/login.controller.js"></script>
+            <script src="assets/views/login/login.js"></script>
+            <script src="assets/views/page2/page2.controller.js"></script>
+            <script src="assets/views/page2/page2.js"></script>
+            <script src="assets/views/page1/page1.controller.js"></script>
+            <script src="assets/views/page1/page1.js"></script>
+            <!-- endinject -->
+            
+    	</head>
+    	<body>
+            <div ng-view class="viewport"></div>
+        </body>
+</html>

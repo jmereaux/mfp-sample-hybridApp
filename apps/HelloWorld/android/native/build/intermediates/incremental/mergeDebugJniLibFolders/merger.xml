@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/src/main/jniLibs"/></dataSet><dataSet config="debug"><source path="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build-types/debug/jniLibs"/></dataSet></merger>

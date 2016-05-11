@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="21"
+    density="xxhdpi"
+    format="7"
+    timestamp="64935152727353" >
+
+    <task
+        name="javac"
+        duration="240" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="214" />
+    <task
+        name="verifier"
+        duration="110" />
+
+    <artifact
+        location="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/outputs/apk/native-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="64935152727353" >
+        <artifact
+            location="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/outputs/apk/native-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

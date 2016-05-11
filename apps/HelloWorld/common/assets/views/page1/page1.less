@@ -1,0 +1,44 @@
+.page1 {
+	height: 100%;
+	width: 100%;
+	background-color: red;
+	color: white;
+
+	.content {
+		padding: 0 10px;
+		
+		.adapterButtons {
+			display: flex;
+			justify-content: space-between;
+
+			button {
+				border: 2px solid;
+				background: none;
+				padding: 10px 7px;
+			}
+		}
+		.adapterResponseContainer {
+			border: 2px solid gray;
+			background-color: white;
+			color: red;
+			margin-top: 10px;
+			padding: 10px;
+			position: relative;
+			min-height: 330px;
+			overflow: auto;
+
+			.loading {
+				position: absolute;
+				top: 0;
+				left: 0;
+				height: 100%;
+				width: 100%;
+				display: flex;
+				align-items: center;
+				justify-content: center;
+			}
+			.adapterResponse {
+			}
+		}
+	}
+}

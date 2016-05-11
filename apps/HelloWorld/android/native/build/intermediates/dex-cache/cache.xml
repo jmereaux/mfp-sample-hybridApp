@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.0.0_fba2a6102657731e0825f2e9397bdafa40e5807c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-8.4.0_c563d6e8c5c853a75bea336725c896379d1b8a6a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_1fe8df2319636ed1ea4f935163b994d4b6b020fa/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_c8fab03011322e84e713fb149d60a95d7e5c53f2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_9ba8e0017a4b79c075a8d90d0d6cbfd263f46424/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-8.4.0_d27b53b07acbc5b7176fa6b2d34472f4c13ec535/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_d24ea4481757515a44faf7bcbb8f10a349f4b4cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.0.0_43ec29dffd8ec8c2b1cc5192804b5e6e94c56c5a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-8.4.0_886c9c1df6854dab579a6fead7cb073af94760d8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/libs/android-async-http.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f70e680861fdf9449819003e7799a4e9aca047f8">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/2/android-async-http_42c167d9f282eb2bcc313b055755a3cd9e1ab771/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-8.4.0_6d9fea2707988cbf93a0e632d7884158bde50f26/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-8.4.0_db2eed89932a94912a7e102d368220ce546fb8a2/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/libs/cordova.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="34eb0266a051b31df09216696e0f41a1ed7cfdf6">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/2/cordova_1080d2aba4bc11f2cfcac6313c673462165beb1a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_79dc41b2ec52f5393648c50d58a26c95faaf298f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-8.4.0_2d23b63a4b31dc6e52e7e42e39058a31dfafaecc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-8.4.0_fb5528d3f158fb84438250f5109cf3f7aea424f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-8.4.0_3a8843e418637588cbedd6700077eb6ba7d8f80f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_16f323690e48fd6dc3c53a28ed149a2aca534a7c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/libs/worklight-android.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="541c495e5debb862061db1cb90f5a0def8f258b5">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/2/worklight-android_ea9b616017cb1105f5ea60278207388d4401a7ba/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_2208f8be9d87462f65e4d7056f015f6b97210826/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-8.4.0_9b9211333df5ccf715bfd2a143addd85d65b8920/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d3115b4cfdc0606616c4ea608b4c8ad4138fe348">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_524f0906f8a22bf56e31f29a89c3108fbdd8c7ea/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-8.4.0_fa9918c7558852c8fbf4371bbe6faa3d4be52442/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-8.4.0_ef6beef8ae95837813f11cf5c443659374077ec1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-8.4.0_e21f9e37381ad662c5c97a24cdbd232c57130067/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.0.0_7a670d9b4b79096d4fadeaef9ccfbe9666eaaddc/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-8.4.0_7af630b7ec195f698b7a3eac304a35682432bc32/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-8.4.0_1e60a4960d56edd18f70f8b82d1337c0fc3154e8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-8.4.0_67fadf86528157a09fa14812a018147a65269a65/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-8.4.0_3d802dcba39d6f82eb469065b37622f22eec19df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-8.4.0_10e495f97ced8ae2629d378aa0366d1ecb20a48d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_d2337d1f96252165cf72f74551d743d27a797304/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_34d0682e71ff89933382187d88044a22df188f8e/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/libs/bcprov.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6f5d9926b0afbde9f4dbe3db88c5247be7794bb">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/2/bcprov_637e703b2355a0847015b4bee48ba84733dceac5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7f19a63ea85e17f4287b84272d67c1898ef3962d">
+        <dex dex="/Users/johan/Documents/Workspaces/Garage/MobileFirst/hybridHelloWorld/HelloWorldProject/apps/HelloWorld/android/native/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_093b536c9021d72cf7bf6e2468a97bef6ea85ef4/classes.dex" />
+    </item>
+
+</items>

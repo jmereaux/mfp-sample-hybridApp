@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tns:loginConfiguration xmlns:tns="http://www.worklight.com/auth/config" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+		
+	<securityTests>
+		<mobileSecurityTest name="PushSecurityTest">
+			<testUser realm="PushAppRealm"/>
+			<testDeviceId provisioningType="none"/>
+		</mobileSecurityTest>
+	</securityTests>
+	
+	<realms>
+		<realm loginModule="CustomLoginModule" name="PushAppRealm">
+			<className>com.ibm.garage.jm.MyCustomAuthenticator</className>
+		</realm>
+	</realms>
+
+	<loginModules>
+		<loginModule name="CustomLoginModule">
+			<className>com.ibm.garage.jm.MyCustomLoginModule</className>
+		</loginModule>
+	</loginModules>
+
+</tns:loginConfiguration>
